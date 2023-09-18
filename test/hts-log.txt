@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 17 Sep 2023 20:40:58 at https://ganarconinsta.com/upsell2/?fsid=186905f77401f8b2156ef2b6627f8af81694709986505 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://ganarconinsta.com/upsell2/?fsid=186905f77401f8b2156ef2b6627f8af81694709986505 -O1 "C:\Users\Cristian Staudt\Desktop\Upsell2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:41:02	Error: 	"Not Found" (404) at link https://ganarconinsta.com/upsell2/a (from https://connect.facebook.net/en_US/fbevents.js)
+20:41:02	Error: 	"Not Found" (404) at link https://ganarconinsta.com/upsell2/POST (from https://connect.facebook.net/en_US/fbevents.js)
+20:41:03	Error: 	"Not Found" (404) at link https://ganarconinsta.com/upsell2/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+20:41:03	Error: 	"Not Found" (404) at link https://ganarconinsta.com/upsell2/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+20:41:03	Error: 	"Not Found" (404) at link https://ganarconinsta.com/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 seconds : 11 links scanned, 5 files written (361835 bytes overall) [220109 bytes received at 44021 bytes/sec], 298657 bytes transferred using HTTP compression in 10 files, ratio 31%, 1.8 requests per connection
+(5 errors, 0 warnings, 0 messages)
